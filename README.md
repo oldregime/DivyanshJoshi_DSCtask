@@ -39,10 +39,5 @@ The script should ensure code quality and adherence to best practices. This incl
 
 Organizing code into logical directories and branches is essential for project maintainability. This involves structuring the project directory with clear separation of concerns and creating branches for different features or tasks.
 
-### Extra Points for Deployment and Documentation
 
-Extra points can be earned by deploying the project on cloud platforms like Heroku, AWS, or GCP. Additionally, good documentation, including a well-written README file like this one, contributes to project clarity and usability.
 
----
-
-**Note:** The provided script serves as a starting point for data analysis and model implementation. Further development and refinement are necessary to meet the project requirements and achieve optimal results.
